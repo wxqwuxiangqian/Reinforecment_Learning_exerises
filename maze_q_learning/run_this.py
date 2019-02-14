@@ -11,8 +11,8 @@ The RL is in RL_brain.py.
 
 View more on my tutorial page: https://morvanzhou.github.io/tutorials/
 """
-
-from maze_env import Maze
+from maze_with_pic import Maze
+#from maze_env import Maze
 from RL_brain import QLearningTable
 
 
