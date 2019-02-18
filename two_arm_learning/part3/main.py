@@ -1,8 +1,8 @@
 """
 Complete the env.py
 """
-from part3.env import ArmEnv
-from part3.rl import DDPG
+from env import ArmEnv
+from rl import DDPG
 
 MAX_EPISODES = 500
 MAX_EP_STEPS = 200

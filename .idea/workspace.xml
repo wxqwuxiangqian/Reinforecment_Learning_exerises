@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="ed56e4b2-175c-4841-82cf-cc0428e1af72" name="默认更改列表" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/maze_q_learning/run_this.py" beforeDir="false" afterPath="$PROJECT_DIR$/maze_q_learning/run_this.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/two_arm_learning/part3/env.py" beforeDir="false" afterPath="$PROJECT_DIR$/two_arm_learning/part3/env.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/two_arm_learning/part3/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/two_arm_learning/part3/main.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,18 +16,20 @@
     <SUITE FILE_PATH="coverage/Reinforecment_Learning_exerises$textured_square.coverage" NAME="textured_square Coverage Results" MODIFIED="1550020642693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../pyglet_examples-master" />
     <SUITE FILE_PATH="coverage/Reinforecment_Learning_exerises$3dtest.coverage" NAME="3dtest Coverage Results" MODIFIED="1550022557075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/two_arm_learning/part2" />
     <SUITE FILE_PATH="coverage/Reinforecment_Learning_exerises$game5.coverage" NAME="game5 Coverage Results" MODIFIED="1549985975025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../pyglet_tutorial-master/code" />
-    <SUITE FILE_PATH="coverage/Reinforecment_Learning_exerises$maze_with_pic.coverage" NAME="maze_with_pic Coverage Results" MODIFIED="1550133599816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/maze_q_learning" />
-    <SUITE FILE_PATH="coverage/Reinforecment_Learning_exerises$main.coverage" NAME="main Coverage Results" MODIFIED="1549985233368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/two_arm_learning/part5" />
+    <SUITE FILE_PATH="coverage/Reinforecment_Learning_exerises$maze_with_pic.coverage" NAME="maze_with_pic Coverage Results" MODIFIED="1550147158749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/maze_q_learning" />
     <SUITE FILE_PATH="coverage/Reinforecment_Learning_exerises$game2.coverage" NAME="game2 Coverage Results" MODIFIED="1549985928094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../pyglet_tutorial-master/code" />
-    <SUITE FILE_PATH="coverage/Reinforecment_Learning_exerises$env__1_.coverage" NAME="env (1) Coverage Results" MODIFIED="1550128678642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/two_arm_learning/part3" />
+    <SUITE FILE_PATH="coverage/Reinforecment_Learning_exerises$main.coverage" NAME="main Coverage Results" MODIFIED="1550387559151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/two_arm_learning/part3" />
+    <SUITE FILE_PATH="coverage/Reinforecment_Learning_exerises$env__1_.coverage" NAME="env (1) Coverage Results" MODIFIED="1550476371555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/two_arm_learning/part3" />
     <SUITE FILE_PATH="coverage/Reinforecment_Learning_exerises$test.coverage" NAME="test Coverage Results" MODIFIED="1549957076560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Reinforecment_Learning_exerises$minecraft_block.coverage" NAME="minecraft_block Coverage Results" MODIFIED="1550022643859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../pyglet_examples-master" />
-    <SUITE FILE_PATH="coverage/Reinforecment_Learning_exerises$run_this.coverage" NAME="run_this Coverage Results" MODIFIED="1550134876160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/maze_q_learning" />
+    <SUITE FILE_PATH="coverage/Reinforecment_Learning_exerises$run_this.coverage" NAME="run_this Coverage Results" MODIFIED="1550147170136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/maze_q_learning" />
     <SUITE FILE_PATH="coverage/Reinforecment_Learning_exerises$game1.coverage" NAME="game1 Coverage Results" MODIFIED="1549985917613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../pyglet_tutorial-master/code" />
     <SUITE FILE_PATH="coverage/Reinforecment_Learning_exerises$game4.coverage" NAME="game4 Coverage Results" MODIFIED="1549985950614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../pyglet_tutorial-master/code" />
     <SUITE FILE_PATH="coverage/Reinforecment_Learning_exerises$obj_viewer.coverage" NAME="obj_viewer Coverage Results" MODIFIED="1550020281993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../pyglet_examples-master" />
     <SUITE FILE_PATH="coverage/Reinforecment_Learning_exerises$main_cube.coverage" NAME="main_cube Coverage Results" MODIFIED="1549985255663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../Geode-Sweeper-master" />
-    <SUITE FILE_PATH="coverage/Reinforecment_Learning_exerises$env.coverage" NAME="env Coverage Results" MODIFIED="1549989001017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/two_arm_learning/part2" />
+    <SUITE FILE_PATH="coverage/Reinforecment_Learning_exerises$env.coverage" NAME="env Coverage Results" MODIFIED="1550387637229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/two_arm_learning/part4" />
+    <SUITE FILE_PATH="coverage/Reinforecment_Learning_exerises$3_ARM_TEST.coverage" NAME="3_ARM_TEST Coverage Results" MODIFIED="1550454072468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/two_arm_learning/part2" />
+    <SUITE FILE_PATH="coverage/Reinforecment_Learning_exerises$3_ARM_TEST__1_.coverage" NAME="3_ARM_TEST (1) Coverage Results" MODIFIED="1550494536791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/two_arm_learning/part3" />
     <SUITE FILE_PATH="coverage/Reinforecment_Learning_exerises$test_pyglet.coverage" NAME="test_pyglet Coverage Results" MODIFIED="1549985855578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../pyglet_tutorial-master" />
     <SUITE FILE_PATH="coverage/Reinforecment_Learning_exerises$RL_brain.coverage" NAME="RL_brain Coverage Results" MODIFIED="1549962130627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/maze_q_learning" />
     <SUITE FILE_PATH="coverage/Reinforecment_Learning_exerises$maze_env.coverage" NAME="maze_env Coverage Results" MODIFIED="1550133687660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/maze_q_learning" />
@@ -34,63 +37,55 @@
     <SUITE FILE_PATH="coverage/Reinforecment_Learning_exerises$One_dimensional_Treasure.coverage" NAME="One-dimensional_Treasure Coverage Results" MODIFIED="1549900500012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Reinforecment_Learning_exerises$game.coverage" NAME="game Coverage Results" MODIFIED="1549985964088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../pyglet_tutorial-master/code" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/two_arm_learning/part3/env.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/One-dimensional_Treasure.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3780">
-              <caret line="105" column="46" lean-forward="true" selection-start-line="105" selection-start-column="46" selection-end-line="105" selection-end-column="46" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/maze_q_learning/maze_with_pic.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5436">
-              <caret line="151" column="23" selection-start-line="151" selection-start-column="23" selection-end-line="151" selection-end-column="23" />
-              <folding>
-                <element signature="e#385#414#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/maze_q_learning/maze_env.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="139">
-              <caret line="88" column="12" lean-forward="true" selection-start-line="88" selection-start-column="12" selection-end-line="88" selection-end-column="12" />
-              <folding>
-                <element signature="e#385#414#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/maze_q_learning/run_this.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-378">
-              <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.8773292">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/two_arm_learning/part3/3_ARM_TEST.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="170">
+                  <caret line="131" column="35" lean-forward="true" selection-start-line="131" selection-start-column="35" selection-end-line="131" selection-end-column="35" />
+                  <folding>
+                    <element signature="e#0#18#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/two_arm_learning/part3/env.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-525">
+                  <caret line="78" column="32" lean-forward="true" selection-start-line="78" selection-start-column="32" selection-end-line="78" selection-end-column="32" />
+                  <folding>
+                    <element signature="e#0#18#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -116,13 +111,17 @@
         <option value="$PROJECT_DIR$/two_arm_learning/part2/env.py" />
         <option value="$PROJECT_DIR$/../../pyglet_examples-master/minecraft_block.py" />
         <option value="$PROJECT_DIR$/two_arm_learning/part2/3dtest.py" />
-        <option value="$PROJECT_DIR$/two_arm_learning/part3/env.py" />
         <option value="$PROJECT_DIR$/maze_q_learning/run_this.py" />
         <option value="$PROJECT_DIR$/maze_q_learning/maze_with_pic.py" />
+        <option value="$PROJECT_DIR$/two_arm_learning/part3/main.py" />
+        <option value="$PROJECT_DIR$/two_arm_learning/part2/3_ARM_TEST.py" />
+        <option value="$PROJECT_DIR$/two_arm_learning/part3/env.py" />
+        <option value="$PROJECT_DIR$/two_arm_learning/part3/3_ARM_TEST.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-20" />
     <option name="y" value="23" />
     <option name="width" value="1360" />
     <option name="height" value="668" />
@@ -136,7 +135,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -147,32 +145,51 @@
             <path>
               <item name="Reinforecment_Learning_exerises" type="b2602c69:ProjectViewProjectNode" />
               <item name="Reinforecment_Learning_exerises" type="462c0819:PsiDirectoryNode" />
-              <item name="maze_q_learning" type="462c0819:PsiDirectoryNode" />
+              <item name="two_arm_learning" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Reinforecment_Learning_exerises" type="b2602c69:ProjectViewProjectNode" />
               <item name="Reinforecment_Learning_exerises" type="462c0819:PsiDirectoryNode" />
-              <item name="maze_q_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="maze_env.py" type="8704e2dd:PyFileNode" />
+              <item name="two_arm_learning" type="462c0819:PsiDirectoryNode" />
+              <item name="part3" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Reinforecment_Learning_exerises" type="b2602c69:ProjectViewProjectNode" />
               <item name="Reinforecment_Learning_exerises" type="462c0819:PsiDirectoryNode" />
-              <item name="maze_q_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="maze_with_pic.py" type="8704e2dd:PyFileNode" />
+              <item name="two_arm_learning" type="462c0819:PsiDirectoryNode" />
+              <item name="part3" type="462c0819:PsiDirectoryNode" />
+              <item name="3_ARM_TEST.py" type="8704e2dd:PyFileNode" />
             </path>
             <path>
               <item name="Reinforecment_Learning_exerises" type="b2602c69:ProjectViewProjectNode" />
               <item name="Reinforecment_Learning_exerises" type="462c0819:PsiDirectoryNode" />
-              <item name="maze_q_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="maze_with_pic.py" type="8704e2dd:PyFileNode" />
-              <item name="Maze" type="dd8bbb05:PyElementNode" />
+              <item name="two_arm_learning" type="462c0819:PsiDirectoryNode" />
+              <item name="part3" type="462c0819:PsiDirectoryNode" />
+              <item name="3_ARM_TEST.py" type="8704e2dd:PyFileNode" />
+              <item name="ArmEnv" type="dd8bbb05:PyElementNode" />
             </path>
             <path>
               <item name="Reinforecment_Learning_exerises" type="b2602c69:ProjectViewProjectNode" />
               <item name="Reinforecment_Learning_exerises" type="462c0819:PsiDirectoryNode" />
-              <item name="maze_q_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="run_this.py" type="8704e2dd:PyFileNode" />
+              <item name="two_arm_learning" type="462c0819:PsiDirectoryNode" />
+              <item name="part3" type="462c0819:PsiDirectoryNode" />
+              <item name="env.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="Reinforecment_Learning_exerises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Reinforecment_Learning_exerises" type="462c0819:PsiDirectoryNode" />
+              <item name="two_arm_learning" type="462c0819:PsiDirectoryNode" />
+              <item name="part3" type="462c0819:PsiDirectoryNode" />
+              <item name="env.py" type="8704e2dd:PyFileNode" />
+              <item name="ArmEnv" type="dd8bbb05:PyElementNode" />
+            </path>
+            <path>
+              <item name="Reinforecment_Learning_exerises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Reinforecment_Learning_exerises" type="462c0819:PsiDirectoryNode" />
+              <item name="two_arm_learning" type="462c0819:PsiDirectoryNode" />
+              <item name="part3" type="462c0819:PsiDirectoryNode" />
+              <item name="env.py" type="8704e2dd:PyFileNode" />
+              <item name="Viewer" type="dd8bbb05:PyElementNode" />
             </path>
             <path>
               <item name="Reinforecment_Learning_exerises" type="b2602c69:ProjectViewProjectNode" />
@@ -198,14 +215,81 @@
               <item name="外部库" type="cb654da1:ExternalLibrariesNode" />
               <item name="&lt; Python 3.6 &gt;" type="70bed36:NamedLibraryElementNode" />
               <item name="python3.7" type="462c0819:PsiDirectoryNode" />
-              <item name="tkinter" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Reinforecment_Learning_exerises" type="b2602c69:ProjectViewProjectNode" />
               <item name="外部库" type="cb654da1:ExternalLibrariesNode" />
               <item name="&lt; Python 3.6 &gt;" type="70bed36:NamedLibraryElementNode" />
               <item name="python3.7" type="462c0819:PsiDirectoryNode" />
-              <item name="tkinter" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="numpy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Reinforecment_Learning_exerises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="外部库" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="python3.7" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="numpy" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Reinforecment_Learning_exerises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="外部库" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="python3.7" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="numpy" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="fromnumeric.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="Reinforecment_Learning_exerises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="外部库" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="python3.7" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="numpy" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="multiarray.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="Reinforecment_Learning_exerises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="外部库" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="python3.7" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="pyglet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Reinforecment_Learning_exerises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="外部库" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="python3.7" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="pyglet" type="462c0819:PsiDirectoryNode" />
+              <item name="window" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Reinforecment_Learning_exerises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="外部库" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="python3.7" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="pyglet" type="462c0819:PsiDirectoryNode" />
+              <item name="window" type="462c0819:PsiDirectoryNode" />
+              <item name="xlib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Reinforecment_Learning_exerises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="外部库" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="python3.7" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="pyglet" type="462c0819:PsiDirectoryNode" />
+              <item name="window" type="462c0819:PsiDirectoryNode" />
+              <item name="xlib" type="462c0819:PsiDirectoryNode" />
               <item name="__init__.py" type="8704e2dd:PyFileNode" />
             </path>
             <path>
@@ -213,23 +297,142 @@
               <item name="外部库" type="cb654da1:ExternalLibrariesNode" />
               <item name="&lt; Python 3.6 &gt;" type="70bed36:NamedLibraryElementNode" />
               <item name="python3.7" type="462c0819:PsiDirectoryNode" />
-              <item name="tkinter" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="pyglet" type="462c0819:PsiDirectoryNode" />
+              <item name="window" type="462c0819:PsiDirectoryNode" />
+              <item name="xlib" type="462c0819:PsiDirectoryNode" />
               <item name="__init__.py" type="8704e2dd:PyFileNode" />
-              <item name="CallWrapper" type="dd8bbb05:PyElementNode" />
+              <item name="XlibWindow" type="dd8bbb05:PyElementNode" />
             </path>
             <path>
               <item name="Reinforecment_Learning_exerises" type="b2602c69:ProjectViewProjectNode" />
               <item name="外部库" type="cb654da1:ExternalLibrariesNode" />
               <item name="&lt; Python 3.6 &gt;" type="70bed36:NamedLibraryElementNode" />
               <item name="python3.7" type="462c0819:PsiDirectoryNode" />
-              <item name="tkinter" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="pyglet" type="462c0819:PsiDirectoryNode" />
+              <item name="window" type="462c0819:PsiDirectoryNode" />
               <item name="__init__.py" type="8704e2dd:PyFileNode" />
-              <item name="Tk" type="dd8bbb05:PyElementNode" />
+            </path>
+            <path>
+              <item name="Reinforecment_Learning_exerises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="外部库" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="python3.7" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="pyglet" type="462c0819:PsiDirectoryNode" />
+              <item name="window" type="462c0819:PsiDirectoryNode" />
+              <item name="__init__.py" type="8704e2dd:PyFileNode" />
+              <item name="BaseWindow" type="dd8bbb05:PyElementNode" />
+            </path>
+            <path>
+              <item name="Reinforecment_Learning_exerises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="外部库" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Reinforecment_Learning_exerises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="外部库" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="numpy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Reinforecment_Learning_exerises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="外部库" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="numpy" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Reinforecment_Learning_exerises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="外部库" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="numpy" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="fromnumeric.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="Reinforecment_Learning_exerises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="外部库" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="numpy" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="multiarray.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="Reinforecment_Learning_exerises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="外部库" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="pyglet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Reinforecment_Learning_exerises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="外部库" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="pyglet" type="462c0819:PsiDirectoryNode" />
+              <item name="window" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Reinforecment_Learning_exerises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="外部库" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="pyglet" type="462c0819:PsiDirectoryNode" />
+              <item name="window" type="462c0819:PsiDirectoryNode" />
+              <item name="xlib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Reinforecment_Learning_exerises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="外部库" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="pyglet" type="462c0819:PsiDirectoryNode" />
+              <item name="window" type="462c0819:PsiDirectoryNode" />
+              <item name="xlib" type="462c0819:PsiDirectoryNode" />
+              <item name="__init__.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="Reinforecment_Learning_exerises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="外部库" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="pyglet" type="462c0819:PsiDirectoryNode" />
+              <item name="window" type="462c0819:PsiDirectoryNode" />
+              <item name="xlib" type="462c0819:PsiDirectoryNode" />
+              <item name="__init__.py" type="8704e2dd:PyFileNode" />
+              <item name="XlibWindow" type="dd8bbb05:PyElementNode" />
+            </path>
+            <path>
+              <item name="Reinforecment_Learning_exerises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="外部库" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="pyglet" type="462c0819:PsiDirectoryNode" />
+              <item name="window" type="462c0819:PsiDirectoryNode" />
+              <item name="__init__.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="Reinforecment_Learning_exerises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="外部库" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="pyglet" type="462c0819:PsiDirectoryNode" />
+              <item name="window" type="462c0819:PsiDirectoryNode" />
+              <item name="__init__.py" type="8704e2dd:PyFileNode" />
+              <item name="BaseWindow" type="dd8bbb05:PyElementNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -247,6 +450,11 @@
       </console-settings>
     </option>
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/two_arm_learning/part3" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -259,7 +467,51 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.run_this">
+  <component name="RunManager" selected="Python.3_ARM_TEST (1)">
+    <configuration name="3_ARM_TEST (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Reinforecment_Learning_exerises" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/two_arm_learning/part3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/two_arm_learning/part3/3_ARM_TEST.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="3_ARM_TEST" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Reinforecment_Learning_exerises" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/two_arm_learning/part2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/two_arm_learning/part2/3_ARM_TEST.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="env (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Reinforecment_Learning_exerises" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -282,7 +534,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="maze_env" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="env" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Reinforecment_Learning_exerises" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -290,12 +542,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/maze_q_learning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/two_arm_learning/part4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/maze_q_learning/maze_env.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/two_arm_learning/part4/env.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -304,7 +556,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="maze_with_pic" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Reinforecment_Learning_exerises" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -312,56 +564,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/maze_q_learning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/two_arm_learning/part3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/maze_q_learning/maze_with_pic.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="minecraft_block" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Reinforecment_Learning_exerises" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../pyglet_examples-master" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../pyglet_examples-master/minecraft_block.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="run_this" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Reinforecment_Learning_exerises" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/maze_q_learning" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/maze_q_learning/run_this.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/two_arm_learning/part3/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -372,11 +580,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.run_this" />
-        <item itemvalue="Python.maze_env" />
-        <item itemvalue="Python.maze_with_pic" />
+        <item itemvalue="Python.3_ARM_TEST (1)" />
         <item itemvalue="Python.env (1)" />
-        <item itemvalue="Python.minecraft_block" />
+        <item itemvalue="Python.3_ARM_TEST" />
+        <item itemvalue="Python.env" />
+        <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>
@@ -396,72 +604,56 @@
       <workItem from="1549895013262" duration="2384000" />
       <workItem from="1549932993622" duration="11080000" />
       <workItem from="1549975604748" duration="11762000" />
-      <workItem from="1550127559119" duration="7159000" />
+      <workItem from="1550127559119" duration="8213000" />
+      <workItem from="1550372423231" duration="1937000" />
+      <workItem from="1550453014827" duration="7797000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42903000" />
+    <option name="totallyTimeSpent" value="53691000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1360" height="668" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1107739" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18968134" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.171875" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.19270833" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3298611" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="调试" order="11" />
-      <window_info anchor="bottom" id="Terminal" order="12" weight="0.051813472" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.30555555" />
       <window_info anchor="bottom" id="Python Console" order="13" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32928678" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file:///anaconda3/lib/python3.7/site-packages/pandas/core/frame.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="333" column="46" selection-start-line="333" selection-start-column="46" selection-end-line="333" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///anaconda3/lib/python3.7/site-packages/pandas/core/indexes/base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="896" selection-start-line="896" selection-end-line="896" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///anaconda3/lib/python3.7/site-packages/pandas/core/indexing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="1026" selection-start-line="1026" selection-end-line="1026" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Volumes/未命名/资料/研二上/TCP:IP网络编程代码/yunkehuduan.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/maze_q_learning/env.py" />
     <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.3/python_stubs/1745073881/numpy/random/mtrand.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -476,16 +668,6 @@
           <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/maze_q_learning/RL_brain.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="30" column="34" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
-          <folding>
-            <element signature="e#187#205#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -596,13 +778,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///anaconda3/lib/python3.7/site-packages/pyglet/window/xlib/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="500" column="8" selection-start-line="500" selection-start-column="8" selection-end-line="500" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../pyglet_examples-master/textured_square.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="139">
@@ -634,13 +809,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///anaconda3/lib/python3.7/site-packages/pyglet/window/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="903" column="8" selection-start-line="903" selection-start-column="8" selection-end-line="903" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///anaconda3/lib/python3.7/site-packages/pyglet/app/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1234">
@@ -659,16 +827,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="135" selection-start-line="135" selection-end-line="135" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/two_arm_learning/part2/env.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="15" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -692,33 +850,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/two_arm_learning/part3/env.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/One-dimensional_Treasure.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3780">
-          <caret line="105" column="46" lean-forward="true" selection-start-line="105" selection-start-column="46" selection-end-line="105" selection-end-column="46" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/maze_q_learning/2.jpeg">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/two_arm_learning/part3/rl.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/two_arm_learning/part3/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-288" />
-      </provider>
     </entry>
     <entry file="file:///anaconda3/lib/python3.7/tkinter/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -727,29 +860,140 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/maze_q_learning/run_this.py">
+    <entry file="file://$PROJECT_DIR$/One-dimensional_Treasure.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-378">
-          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/maze_q_learning/maze_env.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="88" column="12" lean-forward="true" selection-start-line="88" selection-start-column="12" selection-end-line="88" selection-end-column="12" />
+        <state relative-caret-position="3708">
+          <caret line="105" column="46" selection-start-line="105" selection-start-column="46" selection-end-line="105" selection-end-column="46" />
           <folding>
-            <element signature="e#385#414#0" expanded="true" />
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/maze_q_learning/maze_with_pic.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5436">
-          <caret line="151" column="23" selection-start-line="151" selection-start-column="23" selection-end-line="151" selection-end-column="23" />
+        <state relative-caret-position="468">
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maze_q_learning/RL_brain.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="30" column="34" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
+          <folding>
+            <element signature="e#187#205#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maze_q_learning/maze_env.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="88" column="12" selection-start-line="88" selection-start-column="12" selection-end-line="88" selection-end-column="12" />
           <folding>
             <element signature="e#385#414#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maze_q_learning/run_this.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="27" column="34" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/two_arm_learning/part4/env.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/two_arm_learning/part4/main.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/two_arm_learning/part4/rl.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/two_arm_learning/part3/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#28#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/two_arm_learning/part3/rl.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///anaconda3/lib/python3.7/site-packages/pyglet/window/xlib/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="860" column="8" selection-start-line="860" selection-start-column="8" selection-end-line="860" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/two_arm_learning/part2/env.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///anaconda3/lib/python3.7/site-packages/pyglet/window/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="1619" column="12" selection-start-line="1619" selection-start-column="12" selection-end-line="1619" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/two_arm_learning/part2/3_ARM_TEST.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="78" column="8" selection-start-line="78" selection-start-column="8" selection-end-line="78" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///anaconda3/lib/python3.7/site-packages/numpy/core/fromnumeric.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="1903" column="4" selection-start-line="1903" selection-start-column="4" selection-end-line="1903" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///anaconda3/lib/python3.7/site-packages/numpy/core/multiarray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="131" column="4" selection-start-line="131" selection-start-column="4" selection-end-line="131" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/two_arm_learning/part3/env.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-525">
+          <caret line="78" column="32" lean-forward="true" selection-start-line="78" selection-start-column="32" selection-end-line="78" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/two_arm_learning/part3/3_ARM_TEST.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="131" column="35" lean-forward="true" selection-start-line="131" selection-start-column="35" selection-end-line="131" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
